@@ -1,5 +1,5 @@
 #  💡 Sobre Mi:
-👋 ¡Hola! Soy Pablo Colomino Granell, un programador joven de España con una gran pasión por la tecnología y el desarrollo de software. Mi objetivo es aprender constantemente y aplicar mis conocimientos en la creación de proyectos innovadores y funcionales.<br><br>🔍 Actualmente soy estudiante del Grado en Tecnología Digital y Multimedia en la Universidad Politécnica de Valencia y me especializo en desarrollo con Python y C++, pero siempre estoy explorando nuevas herramientas y metodologías para expandir mis habilidades.
+👋 Soy Pablo Colomino Granell, un estudiante con una gran pasión por la tecnología y el desarrollo de software. Mi objetivo es aprender constantemente y aplicar mis conocimientos en la creación de proyectos innovadores y funcionales.<br><br>🔍 Actualmente soy estudiante del Grado en Tecnología Digital y Multimedia en la Universidad Politécnica de Valencia y me especializo en desarrollo con Python y C++, pero siempre estoy explorando nuevas herramientas y metodologías para expandir mis habilidades.
 
 
 ## 🌐 Redes Sociales:
